@@ -110,5 +110,5 @@ nc -nlvp 4444
 ## 📝 Related Blog Post
 
 Read the full write-up:  
-👉 [Authenticated RCE in PhpMyAdmin via SQL File Write and Shell Upload](https://medium.com/@sakshi.infosec)
+👉 [Authenticated RCE in PhpMyAdmin via SQL File Write and Shell Upload](https://medium.com/cyberquestor/authenticated-rce-in-phpmyadmin-via-sql-file-write-and-shell-upload-ba897cb3a6df)
 
