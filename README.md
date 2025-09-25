@@ -80,11 +80,12 @@ nc -nlvp 4444
 3. **Creating a payload**
     ![Payload](./screenshots/payload.png)
 
-3. **Uploading rev_shell.php**  
+4. **Uploading rev_shell.php**  
    ![Shell Upload](./screenshots/rev_shell_upload.png)
 
-4. **Shell Triggered and Connection Received**  
+5. **Shell Triggered and Connection Received**  
    ![Reverse Shell](./screenshots/trigger.png)
+   ![Reverse Shell](./screenshots/reverse_shell.png)
 
 > 💡 If you prefer not to push images, you can embed them using GitHub Issues or external URLs.
 
