@@ -103,8 +103,6 @@ nc -nlvp 4444
 ## 📚 References
 
 - [PhpMyAdmin Project](https://www.phpmyadmin.net/)  
-- [CyberChef](https://gchq.github.io/CyberChef/)  
-- [msfvenom Payloads](https://docs.rapid7.com/metasploit/php-payloads/)
 
 ---
 
