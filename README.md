@@ -85,9 +85,8 @@ nc -nlvp 4444
 
 5. **Shell Triggered and Connection Received**  
    ![Reverse Shell](./screenshots/trigger.png)
+   
    ![Reverse Shell](./screenshots/reverse_shell.png)
-
-> 💡 If you prefer not to push images, you can embed them using GitHub Issues or external URLs.
 
 ---
 
